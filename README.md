@@ -2,6 +2,7 @@
 ### **Edwin Torres-Moya · Paul Miller**
 
 This repository contains materials related to the poster:
+[Link text](https://github.com/etcometlab/dust_feedback_torres/blob/main/dustTorresMiller.pdf)
 
 **_“Importance of Dust Radiative Feedback on the Trans-Atlantic Evolution of the Saharan Air Layer”_**
 
