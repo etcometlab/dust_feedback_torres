@@ -6,7 +6,7 @@ This repository contains materials related to the poster:
 <img width="1254" height="938" alt="image" src="https://github.com/user-attachments/assets/361c05a4-a165-415a-8b2e-ae28c876a370" />
 
 
-[Link poster](https://github.com/etcometlab/dust_feedback_torres/blob/main/dustTorresMiller.pdf)
+[Link to poster on PDF](https://github.com/etcometlab/dust_feedback_torres/blob/main/dustTorresMiller.pdf)
 
 **_“Importance of Dust Radiative Feedback on the Trans-Atlantic Evolution of the Saharan Air Layer”_**
 
