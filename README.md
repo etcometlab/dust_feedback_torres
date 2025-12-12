@@ -3,6 +3,9 @@
 
 This repository contains materials related to the poster:
 
+<img width="1254" height="938" alt="image" src="https://github.com/user-attachments/assets/361c05a4-a165-415a-8b2e-ae28c876a370" />
+
+
 [Link poster](https://github.com/etcometlab/dust_feedback_torres/blob/main/dustTorresMiller.pdf)
 
 **_“Importance of Dust Radiative Feedback on the Trans-Atlantic Evolution of the Saharan Air Layer”_**
@@ -37,7 +40,7 @@ I’m always open to collaborations and scientific discussions!
 ---
 
 ## 📬 Contact
-For questions or comments about this work, you can also reach me via LinkedIn or GitHub Issues.
+For questions or comments about this work, you can also reach me via LinkedIn.
 
 **email: etorr27@lsu.edu**
 ---
