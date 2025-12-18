@@ -3,7 +3,7 @@
 
 This repository contains materials related to the poster:
 
-<img width="1254" height="938" alt="image" src="https://github.com/user-attachments/assets/361c05a4-a165-415a-8b2e-ae28c876a370" />
+<img width="1318" height="979" alt="image" src="https://github.com/user-attachments/assets/ed5188e5-8327-4ed5-b3c3-5b5563b73726" />
 
 
 [Link to poster on PDF](https://github.com/etcometlab/dust_feedback_torres/blob/main/dustTorresMiller.pdf)
